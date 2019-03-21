@@ -1,0 +1,171 @@
+[
+    {
+      "Username": "Lola",
+      "DateOfBirth": "1994-02-21",
+      "Password": "password",
+      "Created": "2017-08-02",
+      "JobFunctionId": "1",
+      "Bio": "Nulla excepteur sit anim ex do qui laboris officia eiusmod ut incididunt. Enim occaecat sint dolor esse et enim. Ad cupidatat exercitation ea id eiusmod nostrud amet Lorem sint. Laboris cupidatat aute dolor ad eu tempor elit ea tempor quis et. Lorem eiusmod commodo cillum id aute nisi fugiat. Aute laborum tempor ullamco elit exercitation veniam commodo elit dolor.\r\n",
+      "City": "Efland",
+      "State": "Kentucky",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/3.jpg",
+          "isMain": true,
+          "description": "Non deserunt labore sunt ex laboris et adipisicing ullamco officia minim."
+        }
+      ]
+    },
+    {
+      "Username": "Dorothy",
+      "DateOfBirth": "1979-04-19",
+      "Password": "password",
+      "Created": "2017-01-21",
+      "JobFunctionId": "2",
+      "Bio": "Consequat mollit velit aliquip in nostrud ad esse Lorem ea qui do et. Reprehenderit occaecat consectetur ad in laborum labore id. Esse ea duis eu non duis cillum magna reprehenderit deserunt. Tempor aute qui veniam non consequat do ea ipsum tempor ea deserunt consectetur. Laboris ipsum laboris ipsum sit Lorem magna nulla et. Nulla minim nisi minim fugiat. Exercitation veniam nostrud id exercitation adipisicing commodo.\r\n",
+      "City": "Deseret",
+      "State": "Maine",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/49.jpg",
+          "isMain": true,
+          "description": "Elit culpa eu excepteur ut elit tempor nulla duis dolore."
+        }
+      ]
+    },
+    {
+      "Username": "Reba",
+      "DateOfBirth": "1984-12-05",
+      "Password": "password",
+      "Created": "2017-06-24",
+      "JobFunctionId": "2",
+      "Bio": "Ea tempor reprehenderit officia commodo aliqua dolor. Ex culpa eiusmod quis Lorem fugiat. Incididunt duis ad enim sunt qui. Ullamco magna dolor in eiusmod sit. Ut ea ut commodo ipsum eu non sit eiusmod voluptate consequat aute eu. Nisi velit in sunt labore nulla sunt quis amet enim. Nulla sint mollit cupidatat aliqua ex adipisicing sint id tempor officia incididunt irure enim.\r\n",
+      "City": "Hannasville",
+      "State": "Georgia",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/24.jpg",
+          "isMain": true,
+          "description": "Veniam dolore nisi magna laboris minim id pariatur officia."
+        }
+      ]
+    },
+    {
+      "Username": "Annmarie",
+      "DateOfBirth": "1970-02-25",
+      "Password": "password",
+      "Created": "2017-07-17",
+      "JobFunctionId": "3",
+      "Bio": "Enim eiusmod esse magna aliquip occaecat. Non ea quis cillum aliquip reprehenderit aute proident officia do nulla voluptate duis. Deserunt ullamco quis qui cillum consequat esse sunt in dolore nulla sit officia voluptate. Tempor pariatur exercitation pariatur reprehenderit. Incididunt nulla magna exercitation officia enim veniam adipisicing laboris proident nisi id Lorem.\r\n",
+      "City": "Sutton",
+      "State": "Virginia",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/74.jpg",
+          "isMain": true,
+          "description": "Veniam velit amet tempor laboris reprehenderit deserunt quis do veniam."
+        }
+      ]
+    },
+    {
+      "Username": "Ashley",
+      "DateOfBirth": "1953-03-01",
+      "Password": "password",
+      "Created": "2017-03-25",
+      "JobFunctionId": "4",
+      "Bio": "Eiusmod dolore consectetur nisi laborum id duis occaecat dolor cupidatat excepteur eu aliquip. Nulla non ipsum in id eu consequat sint do non tempor aute incididunt do duis. Nostrud veniam ea in do aliqua mollit sit magna qui.\r\n",
+      "City": "Bayview",
+      "State": "Tennessee",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/33.jpg",
+          "isMain": true,
+          "description": "Ipsum enim cillum ad nisi consequat cillum ipsum ullamco tempor."
+        }
+      ]
+    },
+    {
+      "Username": "Roy",
+      "DateOfBirth": "1993-08-21",
+      "Password": "password",
+      "Created": "2017-08-03",
+      "JobFunctionId": "4",
+      "Bio": "Cillum exercitation exercitation duis aliqua minim velit veniam. Veniam id exercitation excepteur dolore voluptate esse. Elit eiusmod voluptate ullamco fugiat sit cillum deserunt et.\r\n",
+      "City": "Davenport",
+      "State": "North Carolina",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/90.jpg",
+          "isMain": true,
+          "description": "Irure cupidatat magna aute et dolore aliquip reprehenderit dolor irure."
+        }
+      ]
+    },
+    {
+      "Username": "Duke",
+      "DateOfBirth": "1996-09-07",
+      "Password": "password",
+      "Created": "2017-07-07",
+      "JobFunctionId": "5",
+      "Bio": "Dolor voluptate enim laborum duis proident commodo sit. Sint cupidatat Lorem ullamco dolor qui proident. Consectetur fugiat ut ipsum ullamco ut magna minim consectetur consectetur. Quis labore nostrud minim dolor.\r\n",
+      "City": "Inkerman",
+      "State": "Ohio",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/96.jpg",
+          "isMain": true,
+          "description": "Magna duis consectetur sit ut commodo non eiusmod."
+        }
+      ]
+    },
+    {
+      "Username": "Lloyd",
+      "DateOfBirth": "1957-03-07",
+      "Password": "password",
+      "Created": "2017-08-22",
+      "JobFunctionId": "5",
+      "Bio": "Nostrud reprehenderit mollit magna incididunt nulla mollit ad do ullamco ipsum reprehenderit consequat minim. Nisi id est et consequat reprehenderit tempor fugiat aliquip mollit aute consectetur culpa. Ut amet aliqua minim magna. Velit dolore consectetur culpa ea magna nisi eu sit velit.\r\n",
+      "City": "Loma",
+      "State": "Tennessee",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/4.jpg",
+          "isMain": true,
+          "description": "Cupidatat veniam ea magna cillum velit minim non minim tempor ipsum excepteur."
+        }
+      ]
+    },
+    {
+      "Username": "Larsen",
+      "DateOfBirth": "1969-08-15",
+      "Password": "password",
+      "Created": "2017-02-17",
+      "JobFunctionId": "6",
+      "City": "Bynum",
+      "State": "Kentucky",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/76.jpg",
+          "isMain": true,
+          "description": "Amet officia enim pariatur mollit tempor in ut."
+        }
+      ]
+    },
+    {
+      "Username": "Simon",
+      "DateOfBirth": "1984-02-19",
+      "Password": "password",
+      "Created": "2017-06-27",
+      "JobFunctionId": "7",
+      "Bio": "Aliqua nisi labore tempor adipisicing. Lorem in ut enim quis dolor magna commodo nisi ad voluptate et excepteur aliqua. Ea nostrud velit laborum sit nisi cillum proident nisi.\r\n",
+      "City": "Bristol",
+      "State": "Tennessee",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/men/14.jpg",
+          "isMain": true,
+          "description": "Nulla nisi tempor sint cillum aliqua esse aute."
+        }
+      ]
+    }
+  ]
