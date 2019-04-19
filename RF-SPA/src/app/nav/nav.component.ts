@@ -22,7 +22,6 @@ model: any = {};
   login() {
     this.authService.login(this.model).subscribe(next => {
       this.alertify.success('Logged in successfully');
-      console.log('Logged in successfully');
     }, error => {
       this.alertify.error(error);
     }, () => {

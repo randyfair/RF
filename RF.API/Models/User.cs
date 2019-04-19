@@ -12,6 +12,7 @@ namespace RF.API.Models
 
         public DateTime DateOfBirth { get; set; }
         public DateTime Created { get; set; }
+        public string KnownAs { get; set; }
         public string Bio { get; set; }
         public ICollection<Photo> Photos { get; set; }
         public ICollection<JobFunction> JobFunctions { get; set; }
